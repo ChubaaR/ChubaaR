@@ -1,3 +1,5 @@
+**About Me**
+
 - 👋 Hi, I’m Chuba
 - 👀 I’m interested in building impactful tech solutions, especially in AI/ML, IoT, Flutter development, and cybersecurity.
 - 🌱 I’m currently learning Flutter, machine learning, and diving deeper into cybersecurity fundamentals.
